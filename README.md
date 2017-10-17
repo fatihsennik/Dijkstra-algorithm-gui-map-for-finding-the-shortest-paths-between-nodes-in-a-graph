@@ -7,7 +7,7 @@ Dijkstra's algorithm is an algorithm for finding the shortest paths between node
 
 
 # How to Use it ?
-Click to add nodes and then right click a node and then again right click on another node to link them eachother. You can freely reposition them by dragging nodes according to background map image. In order to create Background map image you can use open streetmap: [Open Street Map](https://www.openstreetmap.org/)As for the Fun part, select starting node and then select end node and click to start to get shortest path between selected nodes thanks to Dijkstra's algorithm.
+Click to add nodes and then right click a node and then again right click on another node to link them eachother. You can freely reposition them by dragging nodes according to background map image. In order to create Background map image you can use open streetmap: [Open Street Map](https://www.openstreetmap.org/)  As for the Fun part, select starting node and then select end node and click to start to get shortest path between selected nodes thanks to Dijkstra's algorithm.
 
 #  Libs used!
 
